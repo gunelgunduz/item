@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    background-color: #fff;
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.italic {
+    font-style: italic;
+}
+.strikethrough {
+    text-decoration: line-through;
+}
+.underline {
+    text-decoration: underline;
+}
+.bold {
+    font-weight: bold;
+}
+ul ul {
+    margin-left: 20px;
+}
